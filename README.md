@@ -72,4 +72,4 @@ WSDL URL : [https://apps.learnwebservices.com/services/hello?WSDL](https://apps.
 ---
 
 ### GitHub Repository
-[https://github.com/Kirazul/TP1_SOA](https://github.com/Kirazul/TP1_SOA)
+[https://github.com/Mohamed-ncib19/soa-tp1](https://github.com/Mohamed-ncib19/soa-tp1)
